@@ -14,3 +14,5 @@
 - Responsive design for a seamless experience across devices.
 - Clean and intuitive user interface.
 - Showcase of projects, skills, and experience.
+- portfolio of opensource projects.
+  
